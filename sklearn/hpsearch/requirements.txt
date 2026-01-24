@@ -7,3 +7,4 @@ scipy==0.19.1
 pyyaml==3.12
 scikit-learn==0.19.0
 scikit-optimize==0.4
+pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
